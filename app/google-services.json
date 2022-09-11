@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011965133722",
+    "project_id": "my-project-8105-362116",
+    "storage_bucket": "my-project-8105-362116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011965133722:android:ea8602c2c5f122e588b023",
+        "android_client_info": {
+          "package_name": "dehnavi.sajjad.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011965133722-sk90e657luj63oi59p1vh0roaoo04bf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjw8kv4KzS_xlbUXIYg3OhUyfBHVOUuts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011965133722-sk90e657luj63oi59p1vh0roaoo04bf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
